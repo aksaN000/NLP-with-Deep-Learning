@@ -1,0 +1,33 @@
+# Development Dependencies
+-r requirements.txt
+
+# Testing
+pytest>=7.1
+pytest-cov>=3.0
+pytest-mock>=3.8
+
+# Code Quality
+black>=22.6
+flake8>=5.0
+isort>=5.10
+mypy>=0.971
+pre-commit>=2.20
+
+# Documentation
+sphinx>=5.1
+sphinx-rtd-theme>=1.0
+nbsphinx>=0.8
+pandoc>=2.0
+
+# Jupyter Extensions
+nbconvert>=6.5
+jupyter-contrib-nbextensions>=0.5
+
+# Performance Profiling
+memory-profiler>=0.60
+line-profiler>=3.5
+
+# Additional Tools
+autopep8>=1.7
+bandit>=1.7
+safety>=2.1
