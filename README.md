@@ -123,8 +123,8 @@ A comprehensive, open-source educational platform for Natural Language Processin
 ### Quick Start
 ```bash
 # Clone the repository
-git clone https://github.com/aksaN000/Deep-Learning.git
-cd Deep-Learning
+git clone https://github.com/aksaN000/NLP-with-Deep-Learning.git
+cd NLP-with-Deep-Learning
 
 # Install dependencies
 pip install -r requirements.txt
@@ -261,7 +261,7 @@ docker run -p 8888:8888 nlp-education
 
 ## Contact and Community
 
-- **GitHub**: [github.com/aksaN000/Deep-Learning](https://github.com/aksaN000/Deep-Learning)
+- **GitHub**: [github.com/aksaN000/NLP-with-Deep-Learning](https://github.com/aksaN000/NLP-with-Deep-Learning)
 - **Documentation**: Comprehensive guides and API documentation
 - **Community Forum**: Discussion and collaboration platform
 - **Newsletter**: Regular updates on new content and developments
