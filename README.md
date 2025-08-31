@@ -2,7 +2,7 @@
 
 A comprehensive exploration of Natural Language Processing (NLP) techniques, from traditional methods to modern deep learning approaches. This project demonstrates various NLP concepts including text preprocessing, word embeddings, sentiment analysis, and neural network implementations.
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 ├── part1.ipynb          # NLTK Fundamentals & Text Analysis
@@ -11,7 +11,7 @@ A comprehensive exploration of Natural Language Processing (NLP) techniques, fro
 └── README.md           # Project documentation
 ```
 
-## 🚀 Overview
+## Overview
 
 This project covers a comprehensive range of NLP techniques and methodologies:
 
@@ -38,7 +38,7 @@ This project covers a comprehensive range of NLP techniques and methodologies:
 - **Model Evaluation**: Comprehensive performance analysis and visualization
 - **CUDA Integration**: GPU acceleration for deep learning models
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Python Libraries**:
   - `NLTK` - Natural Language Toolkit for text processing
@@ -54,7 +54,7 @@ This project covers a comprehensive range of NLP techniques and methodologies:
   - GloVe Pre-trained Embeddings
   - IMDB Movie Reviews Dataset
 
-## 🔧 Installation & Setup
+## Installation & Setup
 
 1. **Clone the repository**:
    ```bash
@@ -73,7 +73,7 @@ This project covers a comprehensive range of NLP techniques and methodologies:
    nltk.download('all')
    ```
 
-## 📊 Key Features & Implementations
+## Key Features & Implementations
 
 ### Word Embeddings Analysis
 - Comparison between Skip-gram and CBOW models
@@ -92,7 +92,7 @@ This project covers a comprehensive range of NLP techniques and methodologies:
 - Frequency distribution analysis
 - Collocation discovery
 
-## 📈 Results & Insights
+## Results & Insights
 
 The project demonstrates:
 - **High Performance**: Achieved 89%+ accuracy on sentiment classification tasks
@@ -100,7 +100,7 @@ The project demonstrates:
 - **Model Comparison**: Comprehensive evaluation of traditional vs. deep learning approaches
 - **Visualization**: Clear representation of word relationships and semantic clusters
 
-## 🎯 Learning Outcomes
+## Learning Outcomes
 
 This project provides hands-on experience with:
 - Fundamental NLP concepts and preprocessing techniques
@@ -109,7 +109,7 @@ This project provides hands-on experience with:
 - Model evaluation and performance optimization
 - Visualization of high-dimensional text data
 
-## 🔍 Usage Examples
+## Usage Examples
 
 ### Quick Start with Sentiment Analysis
 ```python
@@ -133,7 +133,7 @@ similar_words = find_most_similar('king', embeddings, top_k=5)
 print(similar_words)
 ```
 
-## 📝 Contributing
+## Contributing
 
 Feel free to contribute to this project by:
 - Adding new NLP techniques or models
@@ -141,11 +141,11 @@ Feel free to contribute to this project by:
 - Adding more comprehensive documentation
 - Suggesting performance optimizations
 
-## 📄 License
+## License
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## 🤝 Acknowledgments
+## Acknowledgments
 
 - NLTK team for the comprehensive natural language toolkit
 - Stanford NLP Group for GloVe embeddings
